@@ -1,0 +1,35 @@
+/* Resetting default styles */
+body{
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Times New Roman';
+    margin: 0;
+}
+/* Header styles */
+header {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* Main content styles */
+.main-content {
+    padding: 20px;
+    color: white;
+}
+
+/* Footer styles */
+footer {
+    background-color: lightcyan;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+/*images*/
+img {
+    width: 200px;
+    height: auto; 
+    border: 1px solid black;
+}
